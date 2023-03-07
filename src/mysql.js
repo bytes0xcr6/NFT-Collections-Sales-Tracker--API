@@ -9,7 +9,4 @@ const connector = mysql.createPool({
   database: process.env.DB,
 });
 
-connector.execute("SELECT * FROM users", (err, result) => {
-  console.log(typeof result);
-});
 module.exports = { connector };
