@@ -35,7 +35,7 @@ const getSales = async (collection) => {
     }
   } catch (err) {
     console.log(
-      `No more sales in the last ${rangeOfBlocks} blocks! ${values.length} sales found in the Collection ${name}`
+      `\n- No more sales in the last ${rangeOfBlocks} blocks! ${values.length} sales found in the Collection ${name}`
     );
   }
   return { details, values, name };

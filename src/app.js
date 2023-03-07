@@ -29,7 +29,7 @@ app.get("/api/likes/:wallet", (req, res) => {
         throw err;
       }
       console.log(
-        `Searching for the last sales of your Fav NFT collections in the last 1K Blocks...`
+        `- Searching for the last sales of your Fav NFT collections in the last 1K Blocks...`
       );
       const results = [];
 
