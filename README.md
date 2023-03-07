@@ -39,6 +39,7 @@ https://nft-fav-projects.up.railway.app/
   https://nft-fav-projects.up.railway.app/api/likes/0x4B229Ed260cc6AA763c17C412162d46f2b4caF52
 
 - Response:
+<img width="418" alt="Captura de pantalla 2023-03-07 195520" src="https://user-images.githubusercontent.com/102038261/223532823-70ce4a66-3a3b-4777-b940-8bd6de86c51a.png">
 
 ```
   {
