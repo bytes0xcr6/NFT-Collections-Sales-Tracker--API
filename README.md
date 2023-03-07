@@ -1,6 +1,7 @@
 # NFT Collections Sales Tracker - API
+<img width="800" alt="Captura de pantalla 2023-03-07 203632" src="https://user-images.githubusercontent.com/102038261/223533775-b7d6d42c-8998-4bf6-882a-d941ae1c1a9a.png">
 
-Users by wallet can store their Favorite NFTs collections in the DB (MySQL). When they use the API passing their wallet as parameter they will get the last sales in the last 1000 Blocks for the NFT collections marked as Favorite.
+Users by wallet can store their Favorite NFTs collections in the DataBase(MySQL). When they use the API passing their wallet as parameter they will get the last sales in the last 1000 Blocks for the NFT collections they marked as Favorite.
 
 By now, the wallets in the Data Base are:
 
@@ -39,7 +40,7 @@ https://nft-fav-projects.up.railway.app/
   https://nft-fav-projects.up.railway.app/api/likes/0x4B229Ed260cc6AA763c17C412162d46f2b4caF52
 
 - Response:
-<img width="418" alt="Captura de pantalla 2023-03-07 195520" src="https://user-images.githubusercontent.com/102038261/223532823-70ce4a66-3a3b-4777-b940-8bd6de86c51a.png">
+<img width="800" alt="Captura de pantalla 2023-03-07 195520" src="https://user-images.githubusercontent.com/102038261/223532823-70ce4a66-3a3b-4777-b940-8bd6de86c51a.png">
 
 ```
   {
